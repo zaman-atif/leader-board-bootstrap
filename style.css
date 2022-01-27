@@ -1,0 +1,29 @@
+/* Utilities */
+body {
+  background-color: #e5e5e5 !important;
+}
+.fas {
+  font-size: 12px;
+}
+.filled {
+  color: #ffc014;
+}
+.empty {
+  color: #aeaeae;
+  opacity: 0.25;
+}
+.text-orange-450 {
+  color: #ed6b4f;
+}
+/* Navbar background */
+.nav-background {
+  background-color: #562eff;
+}
+/* Course duration style  */
+
+.course-duration {
+  background-color: #ffe4e8;
+  color: #ff4a60;
+  border-radius: 14.6913px;
+  font-size: 14.6913px;
+}
